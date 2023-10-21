@@ -103,4 +103,4 @@ We embrace contributions from the open-source community. If you'd like to enhanc
 
 ## License
 
-OGZ Cuisine is an open-source project. This means that you are free to use, modify, and distribute this software according to the terms of the MIT License. The MIT License is known for being permissive and allows you to use the software for both personal and commercial purposes.
+OGZ Cuisine is an open-source project. This means that you are free to use, modify, and distribute this software according to the terms of the MIT License. The MIT License is known for being permissive and allows you to use the software for both personal and commercial purposes
